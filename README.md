@@ -5,6 +5,9 @@ The Wifi can be reconfigured over a webportal or reset with a physical button at
   
 It is based on an ESP32 S3 and a 2,9 inch 4-color eInk Display. The driver board can be battery powered, but the software is currently designed to run on USB.
 
+Video of the project:
+https://youtu.be/43O6_xG3Szs
+
 ### Following products have been used:
 - Driver Board --> XIAO ePaper Display Board(ESP32-S3) - EE04 (SKU 100075670)
 - eInk Display --> 2.9" Quadruple Color eInk / ePaper Display with 128x296 Pixels, SPI interface, Support XIAO/Arduino (SKU 104990855)
